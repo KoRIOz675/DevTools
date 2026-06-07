@@ -9,7 +9,7 @@ My personnal collection of scripts, claude skills and other stuff and tools I us
 | Skill                                                     | Description                                                                                                                              |
 | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | [nbip-claude-memory](/Claude/nbip-claude-memory/SKILL.md) | Persist and update session memory into the project's `CLAUDE.md` file so context survives across Claude Code CLI sessions.               |
-| [nbip-pdf-to-note](/Claude/nbip-pdf-to-note/SKILL.md)     | Convert a PDF file into one or more clean, structured Obsidian markdown notes with frontmatter, wikilinks, callouts, and a course index. |
+| [nbip-pdf-to-note](/Claude/nbip-pdf-to-note/SKILL.md)     | Convert a PDF file into one or more clean, structured Obsidian markdown notes with frontmatter, wikilinks, callouts, and a course index. (custom skill based on this obsidian vault: [Zoomma1/get-your-life-together](https://github.com/Zoomma1/get-your-life-together)) |
 
 ### Scripts
 
