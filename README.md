@@ -33,4 +33,4 @@ A cyberpunk synthwave VS Code theme in two variants: **Neon Drive Dark** and **N
 
 | Dark                                                                                           | Light                                                                                          |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <picture><img src="./docs/neon-drive-dark.png" alt="neon-drive-dark" height="350"></picture> | <picture><img src="./docs/neon-drive-light.png" alt="neon-drive-dark" height="350"></picture> |
+| <picture><img src="./docs/neon-drive-dark.png" alt="neon-drive-dark" height="200"></picture> | <picture><img src="./docs/neon-drive-light.png" alt="neon-drive-dark" height="200"></picture> |
